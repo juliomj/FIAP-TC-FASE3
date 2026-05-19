@@ -1,0 +1,3 @@
+column,dtype,missing,missing_pct,unique_values
+IATA_CODE,str,0,0.0,14
+AIRLINE,str,0,0.0,14

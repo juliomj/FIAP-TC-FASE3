@@ -1,0 +1,45 @@
+column,missing_pct,strategy
+CANCELLATION_REASON,0.9845535693878705,usar apenas em EDA; não usar na previsão pré-voo
+AIRLINE_DELAY,0.8172496025573807,usar apenas em EDA; não usar na previsão pré-voo
+AIR_SYSTEM_DELAY,0.8172496025573807,usar apenas em EDA; não usar na previsão pré-voo
+SECURITY_DELAY,0.8172496025573807,usar apenas em EDA; não usar na previsão pré-voo
+WEATHER_DELAY,0.8172496025573807,usar apenas em EDA; não usar na previsão pré-voo
+LATE_AIRCRAFT_DELAY,0.8172496025573807,usar apenas em EDA; não usar na previsão pré-voo
+DESTINATION_LONGITUDE,0.08433894779569069,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_LATITUDE,0.08433894779569069,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_LONGITUDE,0.08433808855318857,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_LATITUDE,0.08433808855318857,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_COUNTRY,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_AIRPORT_NAME,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_STATE,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_AIRPORT_NAME,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_COUNTRY,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_CITY,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_STATE,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_CITY,0.0835467262087351,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ELAPSED_TIME,0.018056293788071963,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ARRIVAL_DELAY,0.018056293788071963,alvo/base da variável IS_DELAYED; remover nulos na modelagem
+AIR_TIME,0.018056293788071963,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+WHEELS_ON,0.015898220319744756,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+TAXI_IN,0.015898220319744756,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ARRIVAL_TIME,0.015898220319744756,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+TAXI_OUT,0.015302593417274453,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+WHEELS_OFF,0.015302593417274453,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DEPARTURE_TIME,0.014805263857046794,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DEPARTURE_DELAY,0.014805263857046794,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+TAIL_NUMBER,0.002529781774744766,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+SCHEDULED_TIME,1.0310910025452482e-06,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DESTINATION_AIRPORT,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+ORIGIN_AIRPORT,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+AIRLINE,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+MONTH,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DAY,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DAY_OF_WEEK,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+YEAR,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+SCHEDULED_DEPARTURE,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+FLIGHT_NUMBER,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DISTANCE,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+CANCELLED,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+DIVERTED,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+SCHEDULED_ARRIVAL,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial
+AIRLINE_NAME,0.0,manter para EDA; imputar no pipeline ou remover se alvo/feature essencial

@@ -1,0 +1,8 @@
+column,dtype,missing,missing_pct,unique_values
+IATA_CODE,str,0,0.0,322
+AIRPORT,str,0,0.0,322
+CITY,str,0,0.0,308
+STATE,str,0,0.0,54
+COUNTRY,str,0,0.0,1
+LATITUDE,float64,3,0.932,319
+LONGITUDE,float64,3,0.932,319
