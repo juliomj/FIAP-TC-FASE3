@@ -226,5 +226,10 @@ Após a execução com os CSVs locais, o repositório produzirá:
 Preencher após publicação:
 
 ```text
-https://github.com/<usuario>/<repositorio>
+https://github.com/juliomj/FIAP-TC-FASE3
+```
+## 12. Link do video
+
+```text
+https://youtu.be/zMSlHjr9sUY
 ```
